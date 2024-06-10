@@ -1,3 +1,4 @@
+adguard/adguardhome:latest
 xhofe/alist:latest
 estrellaxd/auto_bangumi:latest
 metacubex/mihomo:latest
